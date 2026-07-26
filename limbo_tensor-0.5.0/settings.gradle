@@ -1,0 +1,2 @@
+include ':limbo-android-lib'
+include ':limbo-android-arm'

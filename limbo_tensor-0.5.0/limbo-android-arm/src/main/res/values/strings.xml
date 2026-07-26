@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Limbo for Tensor</string>
+    <string name="app_short_name">Limbo ARM</string>
+    <string name="UbuntuArmLinux">Ubuntu ARM Server</string>
+    <string name="UbuntuArmLinuxDescr">Ubuntu includes support for the very latest ARM-based server systems powered by certified 64-bit processors.</string>
+
+</resources>
